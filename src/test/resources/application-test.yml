@@ -1,0 +1,13 @@
+# Configurações para ambiente de teste
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.username=sa
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=create-drop
+spring.jpa.show-sql=true
+
+# H2 Console para testes
+spring.h2.console.enabled=true
+
+# Log level para testes
+logging.level.me.dio=DEBUG
+logging.level.org.springframework.web=DEBUG

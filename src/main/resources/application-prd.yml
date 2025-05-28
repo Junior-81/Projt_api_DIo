@@ -1,0 +1,21 @@
+# Configuração para produção (Railway)
+spring.datasource.url=${JDBC_DATABASE_URL:jdbc:h2:mem:sdw2023}
+spring.datasource.username=${DATABASE_USERNAME:sdw2023}
+spring.datasource.password=${DATABASE_PASSWORD:}
+spring.jpa.hibernate.ddl-auto=${DDL_AUTO:create-drop}
+
+# H2 Console desabilitado em produção
+spring.h2.console.enabled=false
+
+# OpenAPI (Swagger)
+springdoc.api-docs.path=/api-docs
+springdoc.swagger-ui.path=/swagger-ui.html
+springdoc.swagger-ui.operationsSorter=method
+
+# Configurações do servidor
+server.port=${PORT:8080}
+
+# Configurações de log
+logging.level.me.dio=INFO
+logging.level.org.hibernate.SQL=INFO
+logging.level.org.hibernate.type.descriptor.sql.BasicBinder=INFO

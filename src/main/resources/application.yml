@@ -1,0 +1,24 @@
+# Banco de dados H2 (desenvolvimento)
+spring.datasource.url=jdbc:h2:mem:sdw2023
+spring.datasource.username=sdw2023
+spring.datasource.password=
+spring.jpa.show-sql=false
+spring.jpa.open-in-view=false
+spring.jpa.hibernate.ddl-auto=create-drop
+
+# H2 Console (apenas para desenvolvimento)
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2-console
+spring.h2.console.settings.trace=false
+spring.h2.console.settings.web-allow-others=false
+
+# OpenAPI (Swagger)
+springdoc.api-docs.path=/api-docs
+springdoc.swagger-ui.path=/swagger-ui.html
+springdoc.swagger-ui.operationsSorter=method
+
+# Configurações do servidor
+server.port=8080
+
+# Configurações de log
+logging.level.me.dio=DEBUG
