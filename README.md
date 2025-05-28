@@ -1,11 +1,11 @@
-# 🏦 Santander Dev Week 2023 API
+# 🏦 Santander Dev Week 2025 API
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
-> API RESTful para sistema bancário digital desenvolvida durante o **Desafio Santander Dev Week 2023** da DIO.
+> API RESTful para sistema bancário digital desenvolvida durante o **Desafio Santander Dev Week 2025** da DIO.
 
 ## ⚡ Funcionalidades
 
