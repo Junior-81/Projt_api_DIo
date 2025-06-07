@@ -5,7 +5,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
-> API RESTful para sistema bancário digital desenvolvida durante o **Desafio Santander Dev Week 2025** da DIO.
+> API RESTful para sistema bancário digital desenvolvida para treinar criação de CRUD/API.
 
 ## ⚡ Funcionalidades
 
