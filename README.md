@@ -1,11 +1,11 @@
-# 🏦 Santander Dev Week 2025 API
+# 🏦 banco API
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
-> API RESTful para sistema bancário digital desenvolvida para treinar criação de CRUD/API.
+> O projeto **Projt_api_DIo** foi desenvolvido como parte de um processo de aprendizado e aprimoramento em desenvolvimento backend utilizando Java. O principal objetivo da criação deste projeto foi aplicar na prática os conhecimentos adquiridos sobre APIs RESTful, arquitetura de microsserviços e integração de ferramentas modernas de desenvolvimento, como Docker para conteinerização e automação de ambientes.
 
 ## ⚡ Funcionalidades
 
@@ -94,6 +94,6 @@ docker run -p 8080:8080 santander-api
 
 ---
 
-💡 **Projeto desenvolvido durante o Santander Dev Week 2023 da DIO**
+
 
 
